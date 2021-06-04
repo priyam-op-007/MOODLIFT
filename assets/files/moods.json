@@ -1,0 +1,53 @@
+{
+    "moods": [
+        {
+            "id": 1,
+            "name": "Stressed",
+            "desc": "Ways to get relief from Stress!! - Start Exercising every day! , Use Natural Supplements! , Reduce your Caffiene Intake! , Spend Time with your Friends and Family! , Learn to avaoid Procrastination! , Listen to Soothing Music! , Meditate everyday!   -   Now Read the Below Given Lines Carefully -  1) The mind is like water, when it’s turbulent, it’s difficult to see. When it’s calm, everything becomes clear   2) Your mind will answer most questions if you learn to relax and wait for the answer   3) Remain Calm, Serene, always in command of yourself. You will then find out how easy it is to get along   4) I grind and I graft, but I will make sure that I get that time off here and there to unwind and relax and have a life.  -   songs to listen - Qaafirana , Runaway , Lo fi music",
+            "color": "#1c1c1c",
+            "image": "https://image.shutterstock.com/image-vector/emoticon-headache-260nw-110199806.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Sad",
+            "desc": "Ways to get relief from Sadness!!  -  Go for a Walk! , Listen to Music! , Step back and Reflect! , Take a good nap , Plan a Fun Activity! , Do the things you love!   -    Now Read the Below Given Lines Carefully  -  1) Tough times don’t last But Tough People do   2) It's going to be hard, but hard does not mean impossible   3) Be stronger than your strongest excuse   4) Success is not final; Failure is not fatal; It is the courage to continue that counts  -   songs to listen - Kings never die , Inspiring and motivation , Wake me up",
+            "color": "#f73984",
+            "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_grande.png?v=1571606037"
+        },
+        {
+            "id": 3,
+            "name": "Dull",
+            "desc": "Ways to get relief from a dull mood!!  -  Eat Chocolate to make you Fell Better! , Think of less Fortunate People! , Listen to some Positive Music , Get More Sunlight! , Think about happy things and avoid Worrying!  -   Now Read the Below Given Lines Carefully  -   1) Your dreams are within touching distance.   2) Either you run the day or the day runs you.   3) You've got to get up every morning with determination if you're going to go to bed with satisfaction   4) Whether you think you can, or you think you can’t – you’re right  -   songs to listen - The nights , Fight back , Bombay dreams , way down we go",
+            "color": "#33505a",
+            "image": "https://image.flaticon.com/icons/png/512/2569/2569327.png"
+        },
+        {
+            "id": 4,
+            "name": "Heartbroken",
+            "desc": "Ways to get relief from a Heartbreak!!  -  Grieve the Former Relationship! , Set Healthy Boundaries! , Invest in Yourself! , Write Down your Feelings! , Dont Search or wait for Closure! , Occupy Yourself with Distractions!   -   Now Read the Below Given Lines Carefully  -   1) Sooner or later we’ve all got to let go of our past.   2) Love is only made more valuable by the risk of heartbreak.   3) The emotion that breaks your heart is sometimes the very one that heals it   4) Cry forgive.Lear. Move on let your tears water the seed of your future happiness.  -   songs to listen  - Sunflower , levels , Say it right",
+            "color": "#544ee4",
+            "image": "https://image.shutterstock.com/image-vector/broken-red-heart-emoji-vector-260nw-1049280557.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Negativity all around",
+            "desc": "Ways to get relief from all the Negativity around You!!  -  Identify and get Rid of Negative Influences in your Life! , Practice Meditation! , Clean your Home and Workspace and get rid of the Clutter! , Put a Pause on Cribbing and Whining! , Stay Close to the Nature!  -   Now Read the Below Given Lines Carefully  -  1) Stay away from negative people, they have problem for every solution.   2) The sun himself is weak when he first rises, and gathers strength and courage as the day gets on   3) No one is perfect - that’s why pencils have erasers   4) You’re braver than you believe, and stronger than you seem, and smarter than you think.  -   songs to listen  - Believer , Lose Yourself , till i collapse , Cant stop the feeling",
+            "color": "#e3e4e9",
+            "image": "https://image.shutterstock.com/image-vector/dislike-sign-smiley-emoticon-260nw-225057283.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Happy",
+            "desc": "Ways to make your Happy mood amazing!!  -  Have Enough Sleep Everyday! , Drink Enough Water! , Maintain a DIary to Write all the Moments of your Life! , Be Thankful to each and Every Person! , Learn soething New every single day!   -   Now Read the Below Given Lines Carefully  -   1) It’s a good day to have a good day.   2) A smile is a shortest distance between two people.   3) Happy people are always the beautiful   4) There is no path to happiness, happiness is the path  -   songs to listen - Feel good , Don omar , I want something just like this ",
+            "color": "e0bfae",
+            "image": "https://image.shutterstock.com/image-vector/smiling-emoticon-happy-eyes-rosy-260nw-336997097.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Enthusiastic",
+            "desc": "What to do when in a Enthusiastic mood!!  -  Take 15 Minutes a Day to do something you Love! , Eat good and stay Fit! , Practice Self-Compassion! , Meditate to stay Calm! , Practise Spontaneous acts of Kindness!   -    Now Read the Below Given Line Carefully  -   1) You will never plough a field if you only turn it over in your mind   2) I am not a product of my circumstances. I am a product of my decisions.   3) Think of many things; do one.   4) If I had eight hours to chop down a tree, I’d spend six hours sharpening my axe.   -   songs to listen - Counting stars , Astronaut in the ocean , Time back , the best ",
+            "color": "#00ac51",
+            "image": "https://image.shutterstock.com/image-vector/emoticon-showing-celebration-gesture-pumping-260nw-366638831.jpg"
+        }
+    ]
+}
