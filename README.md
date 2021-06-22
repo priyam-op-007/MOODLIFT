@@ -9,7 +9,6 @@ Team : SMC T-3
 
 #### Theme : MENTAL HEALTH AND AWARENESS
 
-### Title : MOODLIFT
 Our Moto :
 > Uplifting Everyone & Spreading Happiness
 
@@ -20,4 +19,4 @@ We wanted to act as helping hand  to uplift individuals from their recurssive th
 
 Website link - [Website link](https://github.com/Ronaknowal/Hackon-2.0/blob/main/index.html)
 
-Use this [link](https://www.youtube.com/watch?v=WWQr9JMs14o&t=243s) to access our video
+
